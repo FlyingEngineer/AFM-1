@@ -25,10 +25,10 @@ Pinout:
 | Pin |   Function           |
 |:---:|:---------------------|
 | A | Casing |
-| B | Top of "track" |
-| C | Top "wiper" |
-| D | Bottom "wiper" |
-| E | Bottom of "track" |
+| B | Top of track |
+| C | Top wiper |
+| D | Bottom wiper |
+| E | Bottom of track |
 
 
 Total resistance: Approx 36K
