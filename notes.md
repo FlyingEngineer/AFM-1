@@ -4,11 +4,13 @@
 
 Pinout:
 
-A: Power switch out
-B: Power in (switch common)
-C: Range switch out (in series with power switch)
-D: GND / Indicator coil -
-E: Indicator coil +
+| Pin |   Function           |
+|:---:|:---------------------|
+| A | Power switch out |
+| B | Power in (switch common) |
+| C | Range switch out (in series with power switch) |
+| D | GND / Indicator coil - |
+| E | Indicator coil + |
 
 
 Coil resistance: 100R
