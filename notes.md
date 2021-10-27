@@ -16,3 +16,20 @@ Pinout:
 Coil resistance: 100R
 Full-scale current: 8.2mA
 
+## Altitude Selector
+
+Switched potentiometer.
+
+Pinout:
+
+| Pin |   Function           |
+|:---:|:---------------------|
+| A | Casing |
+| B | Top of "track" |
+| C | Top "wiper" |
+| D | Bottom "wiper" |
+| E | Bottom of "track" |
+
+
+Total resistance: Approx 36K
+
